@@ -7,3 +7,5 @@
 /* four */
 
 /* five */
+
+%put AAAAA;
